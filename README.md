@@ -28,7 +28,7 @@ The dataset includes 1,000 records with the following features:
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/Hermes-Churn-Prediction.git
+git clone https://github.com/OmSapkar24/Hermes-Churn-Prediction.git
 cd Hermes-Churn-Prediction
 pip install -r requirements.txt
 ```
@@ -54,9 +54,6 @@ jupyter notebook Hermes_Churn_Data.ipynb
 - **Decision Tree**: Accuracy: 65%, ROC-AUC: 0.70
 - **XGBoost**: Accuracy: 70%, ROC-AUC: 0.75
 
-### Feature Importance (XGBoost)
-![Feature Importance](results/feature_importance.png)
-
 ---
 
 ## Files
@@ -67,11 +64,6 @@ jupyter notebook Hermes_Churn_Data.ipynb
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - Synthetic dataset generated for demonstration purposes.
 - Libraries used: pandas, scikit-learn, XGBoost, matplotlib.
@@ -79,4 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contributing
-Feel free to fork this repository, create a feature branch, and submit a pull request for improvements or additional features.
+You can fix this repository, create a feature branch, and submit a pull request for improvements or additional features.
